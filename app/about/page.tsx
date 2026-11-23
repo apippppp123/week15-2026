@@ -6,7 +6,7 @@ export default function AboutPage() {
       <Link href="/" className="back">
         ← Beranda
       </Link>
-      <h1 className="title">Ini adalah halaman About</h1>
+      <h1 className="title">Ini adalah halaman Aboutt</h1>
       <p className="subtitle">Halaman ini di-deploy otomatis lewat Vercel.</p>
     </main>
   );
